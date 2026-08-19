@@ -3,8 +3,6 @@ package tutorial7;
 import tutorial7.applience.Appliance;
 
 public class main {
-  public class Main {
-
     public static void main(String[] args) {
 
         Appliance wash = new WashingMachine("LG");
