@@ -1,5 +1,5 @@
 # aymanhussein202505010362
-# aymanhussein202505010362
+
 
 # Java Object-Oriented Programming Tutorials
 
@@ -9,7 +9,7 @@ This repository contains several Java exercises covering fundamental programming
 
 ---
 
-## 📚 Contents
+## Contents
 
 The repository is organized into separate tutorial folders, with each tutorial focusing on different Java programming concepts.
 
@@ -26,7 +26,7 @@ The repository is organized into separate tutorial folders, with each tutorial f
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```text
 aymanhussein202505010362
@@ -79,7 +79,7 @@ aymanhussein202505010362
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 * **Java**
 * Object-Oriented Programming (OOP)
@@ -93,7 +93,7 @@ aymanhussein202505010362
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 ### 1. Classes and Objects
 
@@ -204,7 +204,7 @@ The project demonstrates how Java can be used to create a graphical user interfa
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Requirements
 
@@ -266,7 +266,7 @@ Through these exercises, I worked with:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 aymanhuseein202505010362
 
@@ -276,7 +276,7 @@ This repository contains coursework and practical exercises developed during my 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -284,7 +284,7 @@ See the [`LICENSE`](LICENSE) file for more information.
 
 ---
 
-## 🔗 Repository
+## Repository
 
 The complete source code is available on GitHub:
 
